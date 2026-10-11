@@ -39,9 +39,3 @@ A responsive personal portfolio built with **HTML, Bootstrap 5, custom CSS, and 
    python app.py
    ```
 6. Open http://127.0.0.1:5000 in your browser.
-
-## Personalize before publishing
-- Replace the LinkedIn and GitHub placeholder URLs in `templates/index.html`.
-- Your resume email is already included; optionally add a profile photo.
-- Review the project descriptions and experience wording for accuracy.
-- For deployment, turn off Flask debug mode and use a production WSGI server.
